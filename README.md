@@ -25,3 +25,6 @@ We appreciate your contributions in making a difference and promoting environmen
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+## Why I made this
+Well, it was a front-end dev challenege about making a protest website. I just took it a little far by making a real cause for it.
